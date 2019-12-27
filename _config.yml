@@ -1,9 +1,9 @@
-title: اسکروج!
-email: scroogepodcast@yandex.com
-description: 
+title: Scrooge Podcast | اسکروج پادکست
+email: scroogepodcast@gmail.com
+description: پادکست اسکروج
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://scroogepodcast.github.io" # the base hostname & protocol for your site
-postCount: 3 # the number of posts on the "index" page
+url: "https://scroogepodcast.ir" # the base hostname & protocol for your site
+postCount: 6 # the number of posts on the "index" page
 
 # Build settings
 #markdown: redcarpet

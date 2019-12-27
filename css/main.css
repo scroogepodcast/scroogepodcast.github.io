@@ -29,6 +29,13 @@
   font-weight: 900;
 }
 
+#titl{
+  direction:ltr;
+  text-align:center;
+}
+#descr{
+  visibility:hidden;
+}
 html,h1,h2,h3,p,section,article,ul,a{
   font-family: Sahel !important;
   direction:rtl;
