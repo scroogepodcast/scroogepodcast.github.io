@@ -9,7 +9,7 @@ layout: default
       {{ post.excerpt }}
     </div>
     <div class="post__postfix">
-      <span class="post__date">اسکروج!</span>
+      <span class="post__date">{{ post.date }}</span>
       <span class="post__postfix--separator"></span>
       <a id="transcription" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}" title="{{ post.title}}">متن پادکست و منابع</a>
     </div>
