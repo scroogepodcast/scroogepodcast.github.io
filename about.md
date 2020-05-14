@@ -15,4 +15,4 @@ permalink: /about/
 [![Available on Castbox][image]][hyperlink]
 
   [hyperlink]: https://castbox.fm/channel/Scrooge-Podcast-|-%D8%A7%D8%B3%DA%A9%D8%B1%D9%88%D8%AC-%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-id2499060?country=ir
-  [image]: https://s3.castbox.fm/wp-content/uploads/2018/12/dF7KDUe1_C042VqUJK0kQRWR2fldOwM7_hlRFKBZ5azL_5-gacUNey4Llv313WeAcXFg1Dw_l7wEpVD_gAV7xrGS8FbCyesK8V48bEJqGeOFasct2YhVfo9S_kAlOXbQqRLpjM5.png (CastBox)
+  [image]: https://s3.castbox.fm/wp-content/uploads/2018/05/castbox_logo-text.png (CastBox)
